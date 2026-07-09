@@ -1,162 +1,189 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=0,2,8,18,24&height=220&section=header&text=Akshaya%20Thatikonda&fontSize=52&fontColor=fff&animation=fadeIn&fontAlignY=45&desc=Full-Stack%20Developer%20%E2%80%A2%20MERN%20Stack%20%E2%80%A2%20Open%20Source%20Contributor&descSize=17&descAlignY=67&descFontColor=fbbf24" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,8,18,24&height=230&section=header&text=Akshaya%20Thatikonda&fontSize=48&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20AI-Integrated%20Web%20Apps%20%7C%20Google%20Gemini%20Campus%20Ambassador&descSize=15&descAlignY=58&descFontColor=fbbf24" width="100%" alt="header"/>
 
-</div>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Nunito&weight=800&size=21&duration=2800&pause=900&color=F59E0B&center=true&vCenter=true&random=false&width=560&lines=%F0%9F%9A%80+Shipping+production-grade+AI+apps+solo;%F0%9F%92%A1+3+full-stack+projects+%7C+1%2C000%2B+real+users;%F0%9F%8E%93+9.47+GPA+%7C+CVR+College+of+Engineering;%F0%9F%8C%8D+Google+Gemini+Campus+Ambassador)](https://github.com/iama02)
 
-<div align="center">
+<br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Nunito&weight=800&size=24&duration=3000&pause=800&color=F59E0B&center=true&vCenter=true&random=false&width=620&lines=🚀+Building+real+products+from+day+one;💡+Turning+ideas+into+full-stack+reality;🌍+Open+source+contributor+%40+GSSoC;⚡+MERN+Stack+%7C+Java+%7C+DSA+%7C+and+growing)](https://github.com/iama02)
+![GPA](https://img.shields.io/badge/GPA-9.47%2F10.0-F59E0B?style=for-the-badge&labelColor=1a1a2e)
+![Projects](https://img.shields.io/badge/Shipped-3%20Production%20Apps-22c55e?style=for-the-badge&labelColor=1a1a2e)
+![Users](https://img.shields.io/badge/Reached-1%2C000%2B%20Users-3b82f6?style=for-the-badge&labelColor=1a1a2e)
+![Status](https://img.shields.io/badge/Open%20To-SDE%20Roles-ef4444?style=for-the-badge&labelColor=1a1a2e)
 
 </div>
 
 <br/>
 
----
+## 👋 About Me
 
-<img align="right" width="340" src="https://github-readme-stats.vercel.app/api?username=iama02&show_icons=true&theme=radical&hide_border=true&border_radius=14&count_private=true&include_all_commits=true&custom_title=My+GitHub+in+Numbers"/>
+I'm a third-year **B.Tech CSE (Data Science)** student who builds and ships instead of just learning theory. I've delivered **3 production-grade full-stack apps** integrating LLMs, RESTful APIs, and scalable backend architecture — reaching over **1,000 real users** — while carrying a **9.47/10.0 GPA**.
 
-## 👋 Hey, I'm Akshaya!
+```
+const akshaya = {
+  location: "Hyderabad, India",
+  role: "Full-Stack Developer",
+  focus: ["React", "Node.js", "FastAPI", "MongoDB", "LLM Integration"],
+  currentlyBuilding: "SEIE — a software engineering maturity scoring tool",
+  lookingFor: "SDE / Product Engineering internships & roles",
+};
+```
 
-I'm a **B.Tech CSE (Data Science)** student from **Hyderabad, India** who doesn't wait to graduate before building things that matter.
-
-- 🔨 &nbsp;Currently building **full-stack platforms** end-to-end
-- 🌱 &nbsp;Deepening expertise in **MERN stack & system design**
-- 🤝 &nbsp;Active **GSSoC contributor** — open source runs in my veins
-- 🎯 &nbsp;Looking for **internships, collabs & impactful projects**
-- ⚡ &nbsp;Fun fact: I think in components and dream in APIs
+📬 &nbsp; [![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:akshayathatikonda00@gmail.com) &nbsp;
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/akshaya-t-53a18231a) &nbsp;
+[![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=white)](https://leetcode.com) &nbsp;
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/iama02)
 
 <br/>
 
-📬 **Reach me:** &nbsp;[akshayathatikonda00@gmail.com](mailto:akshayathatikonda00@gmail.com)
+<img src="https://capsule-render.vercel.app/api?type=transparent&color=gradient&customColorList=0,2,8,18,24&height=3&section=header" width="100%" alt="divider"/>
 
-<br/>
-
----
-
-## 🛠️ What I Build With
+## 🛠️ Tech Stack
 
 <div align="center">
 
-### ⚡ Core Stack
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-1a1a1a?style=for-the-badge&logo=nodedotjs&logoColor=4CAF50)
-![Express](https://img.shields.io/badge/Express-000?style=for-the-badge&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-001e2b?style=for-the-badge&logo=mongodb&logoColor=00ED64)
+<table>
+<tr>
+<td align="center" width="25%"><b>Frontend</b></td>
+<td align="center" width="25%"><b>Backend</b></td>
+<td align="center" width="25%"><b>Database</b></td>
+<td align="center" width="25%"><b>Languages</b></td>
+</tr>
+<tr>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=react,tailwind,html,css,js" /><br/>
+</td>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi" /><br/>
+</td>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=mongodb,mysql" /><br/>
+</td>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=java,python,c,typescript" /><br/>
+</td>
+</tr>
+</table>
 
-### 🔧 Languages & Styling
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-0f172a?style=for-the-badge&logo=tailwindcss&logoColor=38BDF8)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-### 🚀 Tools & Workflow
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-161b22?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-
-</div>
-
----
-
-## 🏗️ Featured Work
-
-<div align="center">
-
-<a href="https://github.com/iama02/CampusMitra">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=iama02&repo=CampusMitra&theme=radical&hide_border=true&border_radius=14&description_lines_count=3" />
-</a>
+<sub>+ JWT Auth · REST API Design · LLM Integration (Groq, OpenAI) · Git · Docker · Postman</sub>
 
 </div>
 
 <br/>
 
-> 🎓 **CampusMitra** — A full-stack campus super-app I built from scratch.
-> Modules: **Marketplace · Peer Borrowing · Lost & Found · Peer Tutoring · College Email Auth**
-> Stack: `MongoDB` `Express` `React` `Node.js`
+## 🏗️ Featured Projects
 
----
+<table>
+<tr>
+<td width="50%" valign="top">
 
-## 🌍 Open Source
+### 🎓 CampusMitra
+**Campus Services Platform** · Jan 2026
+
+`Node.js` `Express` `MongoDB` `JWT`
+
+A 3-module campus platform — Lost & Found, Borrow & Rent, Peer Tutoring — with AI-based item matching.
+
+🔥 **~60% faster** search across **1,000+ students**
+⚡ **200+** concurrent users supported
+
+[`View Repo →`](https://github.com/iama02/CampusMitra)
+
+</td>
+<td width="50%" valign="top">
+
+### 👩‍💼 SakhiMarket AI+
+**Women Entrepreneur Platform** · Apr 2026
+
+`React 19` `FastAPI` `MongoDB` `Motor`
+
+A dual-income marketplace for rural women with 3 built-in AI tools: pricing, career roadmap, and product recommendations.
+
+🔥 **~40% better** income visibility
+⚡ **Sub-200ms** API response times
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🚀 StartupSim
+**AI Startup Simulation** · Mar 2026
+
+`Node.js` `MongoDB` `Groq API · Llama 3`
+
+A gamified founder-decision simulator with AI-generated outcomes and a real-time Boardroom Defense feedback module.
+
+🔥 **50+** simulated decision paths
+⚡ **5-stage** founder decision engine
+
+</td>
+<td width="50%" valign="top">
+
+### 🎯 What ties it together
+
+Every project follows the same pattern: **real users, real constraints, real AI integration** — not tutorial clones.
+
+I design the schema, build the API, wire up the LLM, and ship the frontend — solo, end to end.
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+## 🏆 Leadership
+
+<table>
+<tr>
+<td width="50%">
+
+**🌍 Google Gemini Student Campus Ambassador**
+*Google · May 2026 – Present*
+Driving Gemini adoption across campus through tech demos and outreach — reaching **150+ students**.
+
+</td>
+<td width="50%">
+
+**💻 Executive Member, CSI Student Chapter**
+*Jan 2026 – Present*
+Organizing workshops and coding competitions for a **100+ member** technical club.
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+## 📊 GitHub Activity
 
 <div align="center">
 
-| 🏷️ Program | 📦 Project | 💥 Impact |
-|:---:|:---:|:---:|
-| GSSoC | **LuvLyricsApp** | Feature development & UI enhancements |
-| GSSoC | **GitNest** | Codebase improvements & bug fixes |
+<img src="https://github-readme-stats.vercel.app/api?username=iama02&show_icons=true&theme=radical&hide_border=true&border_radius=14&count_private=true&include_all_commits=true" width="48%" alt="GitHub stats"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iama02&layout=donut&theme=radical&hide_border=true&border_radius=14&langs_count=6" width="38%" alt="Top languages"/>
 
-</div>
+<br/><br/>
 
----
+<img src="https://streak-stats.demolab.com?user=iama02&theme=radical&hide_border=true&border_radius=14&mode=weekly&date_format=j%20M%5B%20Y%5D" width="56%" alt="GitHub streak"/>
 
-## 📊 Stats That Speak
+<br/><br/>
 
-<div align="center">
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=iama02&theme=redical&bg_color=141321&color=F8D866&line=F85D7F&point=FFFFFF&area=true&hide_border=true&radius=6)](https://github.com/iama02)
 
-<img src="https://streak-stats.demolab.com?user=iama02&theme=radical&hide_border=true&border_radius=14&mode=weekly&date_format=j%20M%5B%20Y%5D" width="56%"/>
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iama02&layout=donut&theme=radical&hide_border=true&border_radius=14&langs_count=6" width="38%"/>
-
-</div>
-
-<div align="center">
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=iama02&theme=redical&bg_color=141321&color=F8D866&line=F85D7F&point=FFFFFF&area=true&hide_border=true&radius=6&custom_title=Contribution+Timeline)](https://github.com/iama02)
-
-</div>
-
----
-
-## 🏆 Achievements
-
-<div align="center">
+<br/>
 
 [![Trophies](https://github-profile-trophy.vercel.app/?username=iama02&theme=radical&no-frame=true&column=7&margin-w=6&no-bg=true)](https://github.com/iama02)
 
 </div>
 
----
-
-## 🤝 Let's Connect
+<br/>
 
 <div align="center">
 
-<a href="https://linkedin.com/in/akshaya-t-53a18231a">
-  <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-&nbsp;
-<a href="https://twitter.com/AkshayaThatiko1">
-  <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=x&logoColor=white"/>
-</a>
-&nbsp;
-<a href="https://github.com/iama02">
-  <img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-&nbsp;
-<a href="mailto:akshayathatikonda00@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<br/><br/>
+### 💬 *"I don't just learn to code — I code to build."*
 
 ![Profile Views](https://komarev.com/ghpvc/?username=iama02&style=for-the-badge&color=F85D7F&label=Profile+Views)
 
-<br/>
-
-### 💬 &nbsp;*"I don't just learn to code — I code to build."*
-
 </div>
 
-<br/>
-
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,8,18,24&height=110&section=footer&animation=twinkling" width="100%"/>
-</div>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,8,18,24&height=120&section=footer" width="100%" alt="footer"/>
