@@ -180,7 +180,7 @@ Organizing workshops and coding competitions for a **100+ member** technical clu
 
 <div align="center">
 
-### 💬 *"I don't just learn to code — I code to build."*
+### 💬 *"Code to build."*
 
 ![Profile Views](https://komarev.com/ghpvc/?username=iama02&style=for-the-badge&color=F85D7F&label=Profile+Views)
 
