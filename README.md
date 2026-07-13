@@ -2,11 +2,11 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,8,18,24&height=230&section=header&text=Akshaya%20Thatikonda&fontSize=48&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20AI-Integrated%20Web%20Apps%20%7C%20Google%20Gemini%20Campus%20Ambassador&descSize=15&descAlignY=58&descFontColor=fbbf24" width="100%" alt="header"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Nunito&weight=800&size=21&duration=2800&pause=900&color=F59E0B&center=true&vCenter=true&random=false&width=560&lines=%F0%9F%9A%80+Shipping+production-grade+AI+apps+solo;%F0%9F%92%A1+3+full-stack+projects+%7C+1%2C000%2B+real+users;%F0%9F%8E%93+9.47+GPA+%7C+CVR+College+of+Engineering;%F0%9F%8C%8D+Google+Gemini+Campus+Ambassador)](https://github.com/iama02)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Nunito&weight=800&size=21&duration=2800&pause=900&color=F59E0B&center=true&vCenter=true&random=false&width=560&lines=%F0%9F%9A%80+Shipping+production-grade+AI+apps;%F0%9F%92%A1+3+full-stack+projects+%7C+1%2C000%2B+real+users;%F0%9F%8E%93+9.47+GPA+%7C+CVR+College+of+Engineering;%F0%9F%8C%8D+Google+Gemini+Campus+Ambassador)](https://github.com/iama02)
 
 <br/>
 
-![GPA](https://img.shields.io/badge/GPA-9.47%2F10.0-F59E0B?style=for-the-badge&labelColor=1a1a2e)
+
 ![Projects](https://img.shields.io/badge/Shipped-3%20Production%20Apps-22c55e?style=for-the-badge&labelColor=1a1a2e)
 ![Users](https://img.shields.io/badge/Reached-1%2C000%2B%20Users-3b82f6?style=for-the-badge&labelColor=1a1a2e)
 ![Status](https://img.shields.io/badge/Open%20To-SDE%20Roles-ef4444?style=for-the-badge&labelColor=1a1a2e)
